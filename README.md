@@ -1,3 +1,5 @@
+<img src="imagens/banner.png" alt="NAM Tech" width="100%">
+
 # Agentes da NAM Tech
 
 Seis agentes de IA para o Claude Code que fazem parte do dia a dia da NAM Tech: pesquisa, escrita de prompt,
